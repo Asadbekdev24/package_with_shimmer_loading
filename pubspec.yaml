@@ -1,7 +1,12 @@
 name: my_package_with_shimmer
-description: "A new Flutter package project."
+description: "Loyihalarda shimmer effectini qo'llash uchun chiqarilgan package"
 version: 0.0.1
-homepage:
+homepage: https://github.com/Asadbekdev24/package_with_shimmer_loading.git
+repository : https://github.com/Asadbekdev24/package_with_shimmer_loading.git
+issue-tracker : https://github.com/Asadbekdev24/package_with_shimmer_loading/issues
+
+
+
 
 environment:
   sdk: ^3.7.0
@@ -10,6 +15,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+
 
 dev_dependencies:
   flutter_test:

@@ -1,3 +1,7 @@
+# Changelog
+
 ## 0.0.1
 
-* TODO: Describe initial release.
+- Dastlabki versiya chiqarildi.
+- Asosiy funksiya qo‘shildi: `add(int a, int b)`.
+
