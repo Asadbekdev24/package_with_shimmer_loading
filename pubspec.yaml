@@ -1,5 +1,6 @@
 name: my_package_with_shimmer
-description: "Loyihalarda shimmer effectini qo'llash uchun chiqarilgan package"
+description: "my_package_with_shimmer Flutter ilovalari uchun yengil va moslashuvchan shimmer effektini yaratish imkonini beruvchi paketdir. Ushbu paket foydalanuvchilarga UI elementlarining yuklanish jarayonini yanada jozibali qilish uchun shimmer animatsiyasidan foydalanish imkoniyatini beradi. Paket oddiy sozlamalar orqali turli xil effektlarni yaratishga moslashuvchanlik taqdim etadi."
+
 version: 1.0.0
 homepage: https://github.com/Asadbekdev24/package_with_shimmer_loading.git
 repository : https://github.com/Asadbekdev24/package_with_shimmer_loading.git
