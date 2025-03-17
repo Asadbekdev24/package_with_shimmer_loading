@@ -1,6 +1,6 @@
 name: my_package_with_shimmer
 description: "Loyihalarda shimmer effectini qo'llash uchun chiqarilgan package"
-version: 1.0.1
+version: 1.0.0
 homepage: https://github.com/Asadbekdev24/package_with_shimmer_loading.git
 repository : https://github.com/Asadbekdev24/package_with_shimmer_loading.git
 issue_tracker : https://github.com/Asadbekdev24/package_with_shimmer_loading/issues
