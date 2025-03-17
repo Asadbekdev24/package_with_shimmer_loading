@@ -1,7 +1,3 @@
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
+library my_package_with_shimmer;
 
-  int addTwo(int a, int b) => a+b;
-}
+export 'src/custom_shimmer.dart';
